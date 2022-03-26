@@ -1,2 +1,2 @@
 # html_clg
-tese are all bigenner level html for collage corse
+these are all bigenner level html for collage corse
